@@ -3,13 +3,13 @@ PUBobot-discord is a multichannel discord bot for pickup games organisation.
 Bot keeps statistic database, have features to automatically remove AFK users, disallow users to play pickups, fun phrases and more!
 
 # Requirements
-Python 3.5+, sqlite3 module for python, discord api v0.10+.
+Python 3.5+, sqlite3 module for python, discord api v0.16+.
 
 # Running
 1. Fill your discord bot token or username and password in the 'config.cfg' file.
-2. Run './pubobot.py' to launch the program.
+2. Run './pickup.sh' to launch the program.
 3. Invite your bot to the desired server.
-4. Type '!enable_pickups' on the desired channel.
+4. Type '.enable_pickups' on the desired channel.
 
 # Credits
 Developer: Leshka. You can contact me via e-mail leshkajm@ya.ru, or pm 'Leshaka' on irc.quakenet.org server.
